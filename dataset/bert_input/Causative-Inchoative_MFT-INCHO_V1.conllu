@@ -1,0 +1,212 @@
+1	1	The	_
+1	2	atomizer	ARG1
+1	3	atomized	_
+1	4	.	_
+1	5	[SEP]	_
+1	6	atomized	_
+
+2	1	The	_
+2	2	vase	ARG1
+2	3	broke	_
+2	4	.	_
+2	5	[SEP]	_
+2	6	broke	_
+
+3	1	The	_
+3	2	structure	ARG1
+3	3	broke	_
+3	4	apart	_
+3	5	.	_
+3	6	[SEP]	_
+3	7	apart	_
+
+4	1	The	_
+4	2	compound	ARG1
+4	3	broke	_
+4	4	down	_
+4	5	.	_
+4	6	[SEP]	_
+4	7	down	_
+
+5	1	The	_
+5	2	relationship	ARG1
+5	3	broke	_
+5	4	up	_
+5	5	.	_
+5	6	[SEP]	_
+5	7	up	_
+
+6	1	The	_
+6	2	paint	ARG1
+6	3	chipped	_
+6	4	.	_
+6	5	[SEP]	_
+6	6	chipped	_
+
+7	1	The	_
+7	2	log	ARG1
+7	3	cleaved	_
+7	4	.	_
+7	5	[SEP]	_
+7	6	cleaved	_
+
+8	1	The	_
+8	2	glass	ARG1
+8	3	cracked	_
+8	4	.	_
+8	5	[SEP]	_
+8	6	cracked	_
+
+9	1	The	_
+9	2	computer	ARG1
+9	3	crashed	_
+9	4	.	_
+9	5	[SEP]	_
+9	6	crashed	_
+
+10	1	The	_
+10	2	cookie	ARG1
+10	3	crumbled	_
+10	4	.	_
+10	5	[SEP]	_
+10	6	crumbled	_
+
+11	1	The	_
+11	2	ice	ARG1
+11	3	crushed	_
+11	4	.	_
+11	5	[SEP]	_
+11	6	crushed	_
+
+12	1	The	_
+12	2	salt	ARG1
+12	3	dissolved	_
+12	4	.	_
+12	5	[SEP]	_
+12	6	dissolved	_
+
+13	1	The	_
+13	2	rock	ARG1
+13	3	fissured	_
+13	4	.	_
+13	5	[SEP]	_
+13	6	fissured	_
+
+14	1	The	_
+14	2	bone	ARG1
+14	3	fractured	_
+14	4	.	_
+14	5	[SEP]	_
+14	6	fractured	_
+
+15	1	The	_
+15	2	vase	ARG1
+15	3	fragmented	_
+15	4	.	_
+15	5	[SEP]	_
+15	6	fragmented	_
+
+16	1	The	_
+16	2	sugar	ARG1
+16	3	granulated	_
+16	4	.	_
+16	5	[SEP]	_
+16	6	granulated	_
+
+17	1	The	_
+17	2	balloon	ARG1
+17	3	popped	_
+17	4	.	_
+17	5	[SEP]	_
+17	6	popped	_
+
+18	1	The	_
+18	2	cloth	ARG1
+18	3	rended	_
+18	4	.	_
+18	5	[SEP]	_
+18	6	rended	_
+
+19	1	The	_
+19	2	paper	ARG1
+19	3	rived	_
+19	4	.	_
+19	5	[SEP]	_
+19	6	rived	_
+
+20	1	The	_
+20	2	fabric	ARG1
+20	3	ripped	_
+20	4	.	_
+20	5	[SEP]	_
+20	6	ripped	_
+
+21	1	The	_
+21	2	pipe	ARG1
+21	3	ruptured	_
+21	4	.	_
+21	5	[SEP]	_
+21	6	ruptured	_
+
+22	1	The	_
+22	2	window	ARG1
+22	3	shattered	_
+22	4	.	_
+22	5	[SEP]	_
+22	6	shattered	_
+
+23	1	The	_
+23	2	document	ARG1
+23	3	shredded	_
+23	4	.	_
+23	5	[SEP]	_
+23	6	shredded	_
+
+24	1	The	_
+24	2	wood	ARG1
+24	3	slivered	_
+24	4	.	_
+24	5	[SEP]	_
+24	6	slivered	_
+
+25	1	The	_
+25	2	mirror	ARG1
+25	3	smashed	_
+25	4	.	_
+25	5	[SEP]	_
+25	6	smashed	_
+
+26	1	The	_
+26	2	twig	ARG1
+26	3	snapped	_
+26	4	.	_
+26	5	[SEP]	_
+26	6	snapped	_
+
+27	1	The	_
+27	2	beam	ARG1
+27	3	splintered	_
+27	4	.	_
+27	5	[SEP]	_
+27	6	splintered	_
+
+28	1	The	_
+28	2	rope	ARG1
+28	3	split	_
+28	4	.	_
+28	5	[SEP]	_
+28	6	split	_
+
+29	1	The	_
+29	2	cloth	ARG1
+29	3	tattered	_
+29	4	.	_
+29	5	[SEP]	_
+29	6	tattered	_
+
+30	1	The	_
+30	2	paper	ARG1
+30	3	tore	_
+30	4	.	_
+30	5	[SEP]	_
+30	6	tore	_

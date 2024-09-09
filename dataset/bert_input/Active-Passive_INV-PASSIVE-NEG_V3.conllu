@@ -1,0 +1,110 @@
+1	1	The	_
+1	2	garden	ARG1
+1	3	was	_
+1	4	[PRED] designed	_
+1	5	by	_
+1	6	the	_
+1	7	landscaper	ARG0
+1	8	.	_
+
+2	1	The	_
+2	2	garden	ARG1
+2	3	was	_
+2	4	not	_
+2	5	[PRED] designed	_
+2	6	by	_
+2	7	the	_
+2	8	landscaper	ARG0
+2	9	.	_
+
+3	1	The	_
+3	2	proposal	ARG1
+3	3	was	_
+3	4	[PRED] accepted	_
+3	5	by	_
+3	6	the	_
+3	7	committee	ARG0
+3	8	.	_
+
+4	1	The	_
+4	2	proposal	ARG1
+4	3	was	_
+4	4	not	_
+4	5	[PRED] accepted	_
+4	6	by	_
+4	7	the	_
+4	8	committee	ARG0
+4	9	.	_
+
+5	1	The	_
+5	2	document	ARG1
+5	3	was	_
+5	4	[PRED] signed	_
+5	5	by	_
+5	6	the	_
+5	7	director	ARG0
+5	8	.	_
+
+6	1	The	_
+6	2	document	ARG1
+6	3	was	_
+6	4	not	_
+6	5	[PRED] signed	_
+6	6	by	_
+6	7	the	_
+6	8	director	ARG0
+6	9	.	_
+
+7	1	The	_
+7	2	book	ARG1
+7	3	was	_
+7	4	[PRED] read	_
+7	5	by	_
+7	6	the	_
+7	7	students	ARG0
+7	8	.	_
+
+8	1	It	_
+8	2	was	_
+8	3	not	_
+8	4	the	_
+8	5	case	_
+8	6	that	_
+8	7	the	_
+8	8	book	ARG1
+8	9	was	_
+8	10	[PRED] read	_
+8	11	by	_
+8	12	the	_
+8	13	students	ARG0
+8	14	.	_
+
+9	1	The	_
+9	2	project	ARG1
+9	3	was	_
+9	4	[PRED] completed	_
+9	5	by	_
+9	6	the	_
+9	7	team	ARG0
+9	8	before	_
+9	9	the	_
+9	10	deadline	_
+9	11	.	_
+
+10	1	It	_
+10	2	was	_
+10	3	not	_
+10	4	the	_
+10	5	case	_
+10	6	that	_
+10	7	the	_
+10	8	project	ARG1
+10	9	was	_
+10	10	[PRED] completed	_
+10	11	by	_
+10	12	the	_
+10	13	team	ARG0
+10	14	before	_
+10	15	the	_
+10	16	deadline	_
+10	17	.	_

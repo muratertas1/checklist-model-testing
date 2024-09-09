@@ -1,0 +1,42 @@
+11	1	The	_
+11	2	windos	ARG0
+11	3	[PRED] are	_
+11	4	steamed	_
+11	5	up	_
+11	6	.	_
+
+12	1	Wall	_
+12	2	Steet	ARG0
+12	3	[PRED] reacts	_
+12	4	nervously	_
+12	5	to	_
+12	6	the	_
+12	7	news	_
+12	8	.	_
+
+13	1	Broadway	ARG0
+13	2	is	_
+13	3	[PRED] eager	_
+13	4	for	_
+13	5	the	_
+13	6	new	_
+13	7	season	_
+13	8	's	_
+13	9	opning	_
+13	10	.	_
+
+14	1	The	_
+14	2	White	_
+14	3	Hose	ARG0
+14	4	[PRED] released	_
+14	5	a	_
+14	6	statement	_
+14	7	.	_
+
+15	1	The	_
+15	2	Penagon	ARG0
+15	3	is	_
+15	4	[PRED] reviewing	_
+15	5	its	_
+15	6	policies	_
+15	7	.	_

@@ -1,0 +1,121 @@
+1	1	Jack	ARG0
+1	2	[PRED] sprayed	_
+1	3	paint	ARG1
+1	4	on	_
+1	5	the	_
+1	6	wall	ARG2
+1	7	.	_
+
+2	1	Jack	ARG0
+2	2	did	_
+2	3	not	_
+2	4	[PRED] spray	_
+2	5	paint	ARG1
+2	6	on	_
+2	7	the	_
+2	8	wall	ARG2
+2	9	.	_
+
+3	1	The	_
+3	2	chef	ARG0
+3	3	[PRED] basted	_
+3	4	the	_
+3	5	turkey	ARG2
+3	6	with	_
+3	7	sauce	ARG1
+3	8	.	_
+
+4	1	The	_
+4	2	chef	ARG0
+4	3	did	_
+4	4	not	_
+4	5	[PRED] baste	_
+4	6	the	_
+4	7	turkey	ARG2
+4	8	with	_
+4	9	sauce	ARG1
+4	10	.	_
+
+5	1	The	_
+5	2	artist	ARG0
+5	3	[PRED] brushed	_
+5	4	paint	ARG1
+5	5	on	_
+5	6	the	_
+5	7	canvas	ARG2
+5	8	.	_
+
+6	1	The	_
+6	2	artist	ARG0
+6	3	did	_
+6	4	not	_
+6	5	[PRED] brush	_
+6	6	paint	ARG1
+6	7	on	_
+6	8	the	_
+6	9	canvas	ARG2
+6	10	.	_
+
+7	1	The	_
+7	2	gardener	ARG0
+7	3	[PRED] sprayed	_
+7	4	water	ARG1
+7	5	on	_
+7	6	the	_
+7	7	flowers	ARG2
+7	8	.	_
+
+8	1	It	_
+8	2	was	_
+8	3	not	_
+8	4	the	_
+8	5	case	_
+8	6	that	_
+8	7	the	_
+8	8	gardener	ARG0
+8	9	[PRED] sprayed	_
+8	10	water	ARG1
+8	11	on	_
+8	12	the	_
+8	13	flowers	ARG2
+8	14	yesterday	_
+8	15	,	_
+8	16	despite	_
+8	17	the	_
+8	18	dry	_
+8	19	weather	_
+8	20	.	_
+
+9	1	The	_
+9	2	artist	ARG0
+9	3	[PRED] brushed	_
+9	4	ink	ARG1
+9	5	on	_
+9	6	the	_
+9	7	paper	ARG2
+9	8	.	_
+
+10	1	It	_
+10	2	was	_
+10	3	not	_
+10	4	the	_
+10	5	case	_
+10	6	that	_
+10	7	the	_
+10	8	artist	ARG0
+10	9	[PRED] brushed	_
+10	10	ink	ARG1
+10	11	on	_
+10	12	the	_
+10	13	paper	ARG2
+10	14	during	_
+10	15	the	_
+10	16	workshop	_
+10	17	,	_
+10	18	even	_
+10	19	though	_
+10	20	all	_
+10	21	materials	_
+10	22	were	_
+10	23	provided	_
+10	24	.	_

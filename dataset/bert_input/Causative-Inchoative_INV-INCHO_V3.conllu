@@ -1,0 +1,131 @@
+1	1	The	_
+1	2	paper	ARG1
+1	3	[PRED] tore	_
+1	4	.	_
+
+2	1	The	_
+2	2	paper	ARG1
+2	3	that	_
+2	4	my	_
+2	5	child	ARG0
+2	6	was	_
+2	7	drawing	_
+2	8	[PRED] tore	_
+2	9	.	_
+
+3	1	The	_
+3	2	window	ARG1
+3	3	[PRED] broke	_
+3	4	.	_
+
+4	1	The	_
+4	2	window	ARG1
+4	3	,	_
+4	4	which	_
+4	5	was	_
+4	6	weakened	_
+4	7	over	_
+4	8	years	_
+4	9	of	_
+4	10	storms	_
+4	11	,	_
+4	12	[PRED] broke	_
+4	13	.	_
+
+5	1	The	_
+5	2	sculpture	ARG1
+5	3	[PRED] chipped	_
+5	4	.	_
+
+6	1	The	_
+6	2	sculpture	ARG1
+6	3	,	_
+6	4	cherished	_
+6	5	for	_
+6	6	decades	_
+6	7	in	_
+6	8	the	_
+6	9	museum	_
+6	10	,	_
+6	11	[PRED] chipped	_
+6	12	.	_
+
+7	1	The	_
+7	2	vase	ARG1
+7	3	[PRED] cracked	_
+7	4	.	_
+
+8	1	The	_
+8	2	vase	ARG1
+8	3	,	_
+8	4	which	_
+8	5	was	_
+8	6	the	_
+8	7	last	_
+8	8	gift	_
+8	9	from	_
+8	10	her	_
+8	11	grandmother	_
+8	12	,	_
+8	13	[PRED] cracked	_
+8	14	.	_
+
+9	1	The	_
+9	2	car	ARG1
+9	3	[PRED] crashed	_
+9	4	.	_
+
+10	1	The	_
+10	2	car	ARG1
+10	3	,	_
+10	4	racing	_
+10	5	down	_
+10	6	the	_
+10	7	hill	_
+10	8	at	_
+10	9	an	_
+10	10	uncontrollable	_
+10	11	speed	_
+10	12	,	_
+10	13	[PRED] crashed	_
+10	14	.	_
+
+11	1	The	_
+11	2	window	ARG1
+11	3	[PRED] broke	_
+11	4	.	_
+
+12	1	The	_
+12	2	wndow	ARG1
+12	3	[PRED] broke	_
+12	4	.	_
+
+13	1	The	_
+13	2	sculpture	ARG1
+13	3	[PRED] chipped	_
+13	4	.	_
+
+14	1	The	_
+14	2	sculpture	ARG1
+14	3	[PRED] chpped	_
+14	4	.	_
+
+15	1	The	_
+15	2	vase	ARG1
+15	3	[PRED] cracked	_
+15	4	.	_
+
+16	1	The	_
+16	2	vase	ARG1
+16	3	[PRED] crcked	_
+16	4	.	_
+
+17	1	The	_
+17	2	car	ARG1
+17	3	[PRED] crashed	_
+17	4	.	_
+
+18	1	The	_
+18	2	cr	ARG1
+18	3	[PRED] crashed	_
+18	4	.	_

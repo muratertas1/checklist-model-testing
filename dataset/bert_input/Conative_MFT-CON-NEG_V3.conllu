@@ -1,0 +1,96 @@
+1	1	Paul	ARG0
+1	2	did	_
+1	3	not	_
+1	4	[PRED] batter	_
+1	5	at	_
+1	6	the	_
+1	7	door	ARG1
+1	8	.	_
+
+2	1	Maria	ARG0
+2	2	did	_
+2	3	not	_
+2	4	[PRED] beat	_
+2	5	at	_
+2	6	the	_
+2	7	pillow	ARG1
+2	8	.	_
+
+3	1	The	_
+3	2	dog	ARG0
+3	3	did	_
+3	4	not	_
+3	5	[PRED] bump	_
+3	6	at	_
+3	7	the	_
+3	8	gate	ARG1
+3	9	.	_
+
+4	1	The	_
+4	2	ram	ARG0
+4	3	did	_
+4	4	not	_
+4	5	[PRED] butt	_
+4	6	at	_
+4	7	the	_
+4	8	tree	ARG1
+4	9	.	_
+
+5	1	The	_
+5	2	musician	ARG0
+5	3	did	_
+5	4	not	_
+5	5	[PRED] drum	_
+5	6	at	_
+5	7	the	_
+5	8	table	ARG1
+5	9	.	_
+
+6	1	The	_
+6	2	carpenter	ARG0
+6	3	did	_
+6	4	not	_
+6	5	[PRED] hammer	_
+6	6	at	_
+6	7	the	_
+6	8	nail	ARG1
+6	9	.	_
+
+7	1	Paul	ARG0
+7	2	did	_
+7	3	not	_
+7	4	[PRED] hit	_
+7	5	at	_
+7	6	the	_
+7	7	window	ARG1
+7	8	.	_
+
+8	1	The	_
+8	2	boxer	ARG0
+8	3	did	_
+8	4	not	_
+8	5	[PRED] jab	_
+8	6	at	_
+8	7	the	_
+8	8	bag	ARG1
+8	9	.	_
+
+9	1	The	_
+9	2	player	ARG0
+9	3	did	_
+9	4	not	_
+9	5	[PRED] kick	_
+9	6	at	_
+9	7	the	_
+9	8	ball	ARG1
+9	9	.	_
+
+10	1	The	_
+10	2	child	ARG0
+10	3	did	_
+10	4	not	_
+10	5	[PRED] knock	_
+10	6	at	_
+10	7	the	_
+10	8	door	ARG1
+10	9	.	_

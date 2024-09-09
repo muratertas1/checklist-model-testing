@@ -1,0 +1,250 @@
+1	1	Tom	ARG0
+1	2	[PRED] traded	_
+1	3	his	_
+1	4	car	ARG1
+1	5	for	_
+1	6	a	_
+1	7	motorcycle	ARG2
+1	8	.	_
+
+2	1	Tom	ARG0
+2	2	[PRED] traded	_
+2	3	his	_
+2	4	car	ARG1
+2	5	,	_
+2	6	which	_
+2	7	he	_
+2	8	had	_
+2	9	owned	_
+2	10	for	_
+2	11	over	_
+2	12	a	_
+2	13	decade	_
+2	14	,	_
+2	15	for	_
+2	16	a	_
+2	17	motorcycle	ARG2
+2	18	he	_
+2	19	saw	_
+2	20	in	_
+2	21	an	_
+2	22	online	_
+2	23	ad	_
+2	24	.	_
+
+3	1	Sarah	ARG0
+3	2	[PRED] gave	_
+3	3	a	_
+3	4	book	ARG1
+3	5	to	_
+3	6	her	_
+3	7	friend	ARG2
+3	8	.	_
+
+4	1	Sarah	ARG0
+4	2	[PRED] gave	_
+4	3	a	_
+4	4	book	ARG1
+4	5	to	_
+4	6	her	_
+4	7	friend	ARG2
+4	8	who	_
+4	9	she	_
+4	10	had	_
+4	11	met	_
+4	12	during	_
+4	13	her	_
+4	14	first	_
+4	15	year	_
+4	16	of	_
+4	17	college	_
+4	18	.	_
+
+5	1	Brian	ARG0
+5	2	[PRED] lent	_
+5	3	his	_
+5	4	ladder	ARG1
+5	5	to	_
+5	6	his	_
+5	7	neighbor	ARG2
+5	8	.	_
+
+6	1	Brian	ARG0
+6	2	[PRED] lent	_
+6	3	his	_
+6	4	ladder	ARG1
+6	5	,	_
+6	6	which	_
+6	7	he	_
+6	8	inherited	_
+6	9	from	_
+6	10	his	_
+6	11	father	_
+6	12	who	_
+6	13	passed	_
+6	14	years	_
+6	15	ago	_
+6	16	,	_
+6	17	to	_
+6	18	his	_
+6	19	neighbor	ARG2
+6	20	.	_
+
+7	1	Jenny	ARG0
+7	2	[PRED] rented	_
+7	3	her	_
+7	4	apartment	ARG1
+7	5	to	_
+7	6	a	_
+7	7	student	ARG2
+7	8	.	_
+
+8	1	Jenny	ARG0
+8	2	[PRED] rented	_
+8	3	her	_
+8	4	apartment	ARG1
+8	5	,	_
+8	6	which	_
+8	7	had	_
+8	8	a	_
+8	9	great	_
+8	10	view	_
+8	11	of	_
+8	12	the	_
+8	13	city	_
+8	14	,	_
+8	15	to	_
+8	16	a	_
+8	17	student	ARG2
+8	18	looking	_
+8	19	for	_
+8	20	a	_
+8	21	quiet	_
+8	22	place	_
+8	23	to	_
+8	24	study	_
+8	25	.	_
+
+9	1	Mark	ARG0
+9	2	[PRED] sold	_
+9	3	his	_
+9	4	old	_
+9	5	car	ARG1
+9	6	to	_
+9	7	his	_
+9	8	brother	ARG2
+9	9	.	_
+
+10	1	Mark	ARG0
+10	2	[PRED] sold	_
+10	3	his	_
+10	4	old	_
+10	5	car	ARG1
+10	6	,	_
+10	7	which	_
+10	8	had	_
+10	9	seen	_
+10	10	better	_
+10	11	days	_
+10	12	but	_
+10	13	was	_
+10	14	still	_
+10	15	reliable	_
+10	16	,	_
+10	17	to	_
+10	18	his	_
+10	19	brother	ARG2
+10	20	who	_
+10	21	had	_
+10	22	just	_
+10	23	gotten	_
+10	24	his	_
+10	25	driver	_
+10	26	’	_
+10	27	s	_
+10	28	license	_
+10	29	.	_
+
+11	1	Lisa	ARG0
+11	2	[PRED] lent	_
+11	3	her	_
+11	4	notebook	ARG1
+11	5	to	_
+11	6	Paul	ARG2
+11	7	.	_
+
+12	1	Lisa	ARG0
+12	2	[PRED] lent	_
+12	3	her	_
+12	4	notebok	ARG1
+12	5	to	_
+12	6	Pul	ARG2
+12	7	.	_
+
+13	1	George	ARG0
+13	2	[PRED] gave	_
+13	3	his	_
+13	4	pen	ARG1
+13	5	to	_
+13	6	Alice	ARG2
+13	7	.	_
+
+14	1	Gg	ARG0
+14	2	[PRED] gave	_
+14	3	his	_
+14	4	pn	ARG1
+14	5	to	_
+14	6	Alce	ARG2
+14	7	.	_
+
+15	1	Danny	ARG0
+15	2	[PRED] sold	_
+15	3	his	_
+15	4	guitar	ARG1
+15	5	to	_
+15	6	a	_
+15	7	friend	ARG2
+15	8	.	_
+
+16	1	Dany	ARG0
+16	2	[PRED] sold	_
+16	3	his	_
+16	4	gitar	ARG1
+16	5	to	_
+16	6	a	_
+16	7	frend	ARG2
+16	8	.	_
+
+17	1	Rachel	ARG0
+17	2	[PRED] rented	_
+17	3	her	_
+17	4	apartment	ARG1
+17	5	to	_
+17	6	them	ARG2
+17	7	.	_
+
+18	1	Rachl	ARG0
+18	2	[PRED] rentd	_
+18	3	her	_
+18	4	apartmnt	ARG1
+18	5	to	_
+18	6	thm	ARG2
+18	7	.	_
+
+19	1	Kevin	ARG0
+19	2	[PRED] traded	_
+19	3	his	_
+19	4	watch	ARG1
+19	5	for	_
+19	6	a	_
+19	7	smartphone	ARG2
+19	8	.	_
+
+20	1	Kvin	ARG0
+20	2	[PRED] tradde	_
+20	3	his	_
+20	4	wtch	ARG1
+20	5	for	_
+20	6	a	_
+20	7	smrtphone	ARG2
+20	8	.	_
